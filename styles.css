@@ -1,0 +1,19 @@
+h1 {
+	font-size: 40px;
+	font-family: helvetica;
+	color: white;
+	background-color: black;
+	width: 300px;
+}
+
+p {
+	font-size: 20px;
+	width: 280px;
+	border-style: solid black 5px;
+	font-family: helvetica;
+}
+
+ol li {
+	font-family: sans-serif;
+	font-size: 12px;
+}
